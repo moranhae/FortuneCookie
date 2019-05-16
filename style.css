@@ -1,0 +1,102 @@
+* {
+    margin:0px; 
+    padding: 0px;
+    background-color: #B14040;
+}
+.nav {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#emily {
+    text-align: right;
+    font-family: 'Unica One', cursive;
+    font-size:24px;
+    padding: 3px; 
+    background-color: #d7c9c1;
+}
+a.name:link, a.name:visited, a.name.active {
+    color: #000;
+    text-decoration: none;
+}
+a.name:hover {
+    color: #B14040;
+}
+#cookie {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 180px;
+    width: 180px; 
+}
+.header {
+    width: 100%;
+    background-color: #ccc;
+}
+#buttonDIV /*Container */{
+    text-align: center;
+    margin-top: 15px; 
+    margin-bottom: 15px; 
+}
+#button /*button*/ {
+    font-size: 22px; 
+    padding: 5px; 
+    background-color: #ccc;
+    color: #000;
+    font-family: 'Unica One', cursive;
+    box-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+}
+#click {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Unica One', cursive;
+    padding: 10px; 
+    text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+}
+.img {
+    width: 100%;
+    background-color: #fff;
+}
+.fortune {
+    width: 100%;
+}
+#fortuneOutput {
+    text-align: center; 
+    font-size: 26px; 
+    padding: 20px; 
+    font-family: 'Domine', serif;
+}
+footer {
+    width: 100%;
+    background-color: #ccc;
+}
+#credit {
+    text-align:center;
+    font-size: 12px;
+    font-family: 'Kodchasan', sans-serif;
+}
+#creditDIV {
+    padding: 10px;
+}
+/*Footer CSS*/
+a.smashicons:link, a.smashicons:active, a.smashicons:visited {
+    text-decoration: none;
+    color: #000;
+}
+a.smashicons:hover {
+    color: #ccc;
+}
+a.dotcom:link, a.dotcom:active, a.dotcom:visited {
+    text-decoration: none;
+    color: #000;
+}
+a.dotcom:hover {
+    color: #ccc;
+}
+a.license:link, a.license:active, a.license:visited {
+    text-decoration: none;
+    color: #000;
+}
+a.license:hover {
+    color: #ccc;
+}
